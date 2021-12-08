@@ -38,8 +38,6 @@ body {
     width: 100%;
     object-fit: cover;
 }
-.card__details--title, .card__details--price {
-}
 .card__details--title p, .card__details--price p {
     text-align: center;
     font-size: 25px;
